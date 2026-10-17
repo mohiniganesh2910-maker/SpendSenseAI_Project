@@ -1,0 +1,8 @@
+date,description,amount,type,category,payment_method
+2026-10-01,Supermarket groceries,1250,expense,Groceries,Card
+2026-10-02,Monthly salary,35000,income,Salary,Bank transfer
+2026-10-03,Metro card recharge,600,expense,Transport,UPI
+2026-10-05,Restaurant dinner,850,expense,Food & Dining,UPI
+2026-10-06,Electricity bill,1400,expense,Utilities,UPI
+2026-10-08,Online shopping,2200,expense,Shopping,Card
+2026-10-10,Pharmacy,450,expense,Healthcare,Cash
